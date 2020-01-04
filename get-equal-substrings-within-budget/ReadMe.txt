@@ -1,5 +1,5 @@
 problem link -  https://leetcode.com/problems/get-equal-substrings-within-budget/
-
+link to my discussion section - https://leetcode.com/problems/get-equal-substrings-within-budget/discuss/469735/A-simple-solution
 
 In the Solution code I have used an array to store the differences of the chars in the two strings which though increases the complexity by O(n) but improves the TC from 10ms down to 7ms.
 
