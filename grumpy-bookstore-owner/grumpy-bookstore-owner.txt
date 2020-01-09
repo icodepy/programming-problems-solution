@@ -1,0 +1,12 @@
+problem description - https://leetcode.com/problems/grumpy-bookstore-owner/ 
+link to my discussion section - https://leetcode.com/problems/grumpy-bookstore-owner/discuss/475220/java-with-intuition
+
+
+Intuition : 
+
+customer[i] will always be satisfied for grumpy[i]==0;  i∈ [0,customer.length-1].
+The owner's task is to make the customer[i] happy for whom G[i]==1,  
+and to accomplish this task we have been given X (i.e. the number of minutes -> in this time period 
+he can make every customer[i] happy irrespective of the value of G[i]))
+
+Look at the code.
